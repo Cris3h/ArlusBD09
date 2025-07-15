@@ -184,8 +184,8 @@ const [mounted, setMounted] = useState(false)
                     </div>
                     <div>
                       <p className="font-bold text-gray-700 text-xl drop-shadow-sm">Dónde (hace click en la dirección)</p>
-                      <Link href='https://maps.app.goo.gl/GrYM2dRMFStKSmEN7' target="_blank" className="text-blue-500 hover:text-blue-700 transition-colors">
-                      <p className="text-gray-600 font-medium text-lg">Juarez Celman 1064 - Ricardone</p>
+                      <Link href='https://maps.app.goo.gl/GrYM2dRMFStKSmEN7' target="_blank">
+                      <p className="text-blue-600 font-medium text-lg border-b-2">Juarez Celman 1064 - Ricardone</p>
                       </Link>
                     </div>
                   </div>
